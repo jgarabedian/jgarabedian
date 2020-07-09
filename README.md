@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi, I'm Jack 👋
 
-I'm Jack, and sometimes I put stuff on here.
+Sometimes I put stuff on here to be cool and smart.
 
 💬 Ask me about
 
