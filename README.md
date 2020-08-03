@@ -11,8 +11,6 @@ Sometimes I put stuff on here to be cool and smart.
 - [x] HTML/CSS/JS
 - [x] Consulting
 
-⚡ Fun fact: I once had a snapchat reach over 1M people #proud
-
 ## Check out some of my demo links!
 [COVID and Python](https://jack-covid-plotly.herokuapp.com/)
 - Python (pandas)
