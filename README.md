@@ -19,11 +19,18 @@ Sometimes I put stuff on here to be cool and smart.
 
 [BLM Twitter Analysis](http://blm-twitter.herokuapp.com/)
 - Python (pandas)
+- TextBlob (NLP Text Processing)
 - Flask
 - Bootstrap
 
 [Simple COVID and Javascript](http://www.jackhgarabedian.com/covid/)
 - Vanilla JS
+- Bootstrap
+
+[Spotify Top Tens](https://see-spotify-stats.herokuapp.com/z0
+- Python
+- Spotify API
+- Flask
 - Bootstrap
 
 [NBA API and Web Scraping (api deprecated :disappointed:)](https://app-nba.herokuapp.com/)
