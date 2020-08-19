@@ -27,7 +27,7 @@ Sometimes I put stuff on here to be cool and smart.
 - Vanilla JS
 - Bootstrap
 
-[Spotify Top Tens](https://see-spotify-stats.herokuapp.com/z0
+[Spotify Top Tens](https://see-spotify-stats.herokuapp.com/)
 - Python
 - Spotify API
 - Flask
